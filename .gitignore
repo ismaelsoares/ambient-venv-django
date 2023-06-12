@@ -1,0 +1,7 @@
+venv
+.pytest_cache
+__pycache__
+.venv
+.venv/
+.venv/lib/python3.7/site-packages
+.venv/lib/python3.7/site-packages/
